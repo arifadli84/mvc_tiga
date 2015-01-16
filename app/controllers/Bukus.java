@@ -1,5 +1,5 @@
 package controllers;
 
-public class Bukus {
+public class Bukus extends CRUD {
 
 }
