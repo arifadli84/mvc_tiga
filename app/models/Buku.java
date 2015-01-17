@@ -10,6 +10,8 @@ public class Buku {
 		//@Required
 		public String penerbit;
 		public String pengarang;
-		publis String harga;
+		public String hargajual;
+		public String hargabeli;
+		
 
 }
